@@ -1,0 +1,33 @@
+body {
+   font-family: Georgia;
+}
+
+#leftSide {
+   background-color: darkblue;
+   height: 700px;
+   width: 490px;
+   margin: 10px 5px 5px 10px;
+   border-right-color: lime;
+}
+
+.page-header {
+    color: powderblue;
+    margin: 15px;
+}
+
+.form-inline {
+    margin-left: 15px;
+}
+
+#rghtSide {
+    background-color: orchid;
+    height: 700px;
+    width: 900px;
+    margin-left: auto;
+}
+
+.shoGifImgs {
+    height: 200px;
+    width: 200px;
+    margin: 5px 3px 3px; 5px;
+}
